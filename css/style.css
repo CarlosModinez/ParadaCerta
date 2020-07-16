@@ -614,7 +614,7 @@ h6 {
 
 #services .icon {
   position: absolute;
-  left: -10px;
+  left: 33px;
   top: calc(50% - 32px);
 }
 
@@ -625,7 +625,7 @@ h6 {
 }
 
 #services .title {
-  margin-left: 40px;
+  margin-left: 130px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -636,12 +636,12 @@ h6 {
 }
 
 #services .box:hover .title a {
-  color: #007bff;
+  color: #61BC64;
 }
 
 #services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 130px;
   line-height: 24px;
   margin-bottom: 0;
 }
