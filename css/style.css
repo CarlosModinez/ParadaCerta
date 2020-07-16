@@ -16,14 +16,14 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #61BC64;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #0b6bd3;
+  color: #61BC64;
   outline: none;
   text-decoration: none;
 }
@@ -50,7 +50,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #007bff;
+  background: #61BC64;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -88,7 +88,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #007bff;
+  border-top: 6px solid #61BC64;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -152,7 +152,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #00366f;
+  color: #28552D;
   text-decoration: none;
 }
 
@@ -231,8 +231,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background: #61BC64;
+  border-color: #61BC64;
   color: #fff;
 }
 
@@ -312,13 +312,13 @@ h6 {
 .main-nav .drop-down ul a {
   padding: 10px 20px;
   font-size: 13px;
-  color: #004289;
+  color: #28552D;
 }
 
 .main-nav .drop-down ul a:hover,
 .main-nav .drop-down ul .active > a,
 .main-nav .drop-down ul li:hover > a {
-  color: #007bff;
+  color: #61BC64;
 }
 
 .main-nav .drop-down > a:after {
@@ -359,7 +359,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: rgba(19, 39, 57, 0.8);
+  background: rgba(40, 85, 45, 0.85);
   transition: 0.4s;
 }
 
@@ -380,7 +380,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #74b5fc;
+  color: #61BC64;
   text-decoration: none;
 }
 
@@ -426,7 +426,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #004289;
+  color: #28552D;
 }
 
 .mobile-nav-overly {
@@ -436,7 +436,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(19, 39, 57, 0.8);
+  background: #61BC64
   overflow: hidden;
   display: none;
 }
@@ -646,81 +646,6 @@ h6 {
   margin-bottom: 0;
 }
 
-#why-us {
-  padding: 60px 0;
-  background: #004a99;
-}
-
-#why-us .section-header h3,
-#why-us .section-header p {
-  color: #fff;
-}
-
-#why-us .card {
-  background: #00458f;
-  border-color: #00458f;
-  border-radius: 10px;
-  margin: 0 15px;
-  padding: 15px 0;
-  text-align: center;
-  color: #fff;
-  transition: 0.3s ease-in-out;
-  height: 100%;
-}
-
-#why-us .card:hover {
-  background: #003b7a;
-  border-color: #003b7a;
-}
-
-#why-us .card i {
-  font-size: 48px;
-  padding-top: 15px;
-  color: #bfddfe;
-}
-
-#why-us .card h5 {
-  font-size: 22px;
-  font-weight: 600;
-}
-
-#why-us .card p {
-  font-size: 15px;
-  color: #d8eafe;
-}
-
-#why-us .card .readmore {
-  color: #fff;
-  font-weight: 600;
-  display: inline-block;
-  transition: 0.3s ease-in-out;
-  border-bottom: #00458f solid 2px;
-}
-
-#why-us .card .readmore:hover {
-  border-bottom: #fff solid 2px;
-}
-
-#why-us .counters {
-  padding-top: 40px;
-}
-
-#why-us .counters span {
-  font-family: "Montserrat", sans-serif;
-  font-weight: bold;
-  font-size: 48px;
-  display: block;
-  color: #fff;
-}
-
-#why-us .counters p {
-  padding: 0;
-  margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
-  font-size: 14px;
-  color: #cce5ff;
-}
-
 /* Video Section
 -------------------------------*/
 #video {
@@ -738,7 +663,6 @@ h6 {
   position: relative;
   
 }
-
 
 
 /* Team Section
