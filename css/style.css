@@ -724,6 +724,7 @@ h6 {
 /* Video Section
 -------------------------------*/
 #video {
+  align-items: center;
   text-align: center;
   background: #fff;
   padding: 60px 0;
@@ -733,11 +734,12 @@ h6 {
   right: 0;
 }
 
+#imgpos{
+  position: relative;
+  
 }
-#video img {
-  transition: 0.3s;
-  align-items: center;  
-}
+
+
 
 /* Team Section
 --------------------------------*/
