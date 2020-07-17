@@ -808,14 +808,14 @@ h6 {
 }
 
 #footer .footer-top .social-links a {
-    font-size: 18px;
+    font-size: 24px;
     display: inline-block;
-    background: #32C058;
-    color: #fff;
+    background: #fff;
+    color: #32C058;
     line-height: 1;
     padding: 8px 0;
     margin-right: 4px;
-    border-radius: 50%;
+    border-radius: 20%;
     text-align: center;
     width: 36px;
     height: 36px;
