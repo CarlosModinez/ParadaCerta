@@ -569,7 +569,11 @@ h6 {
         width: 100%;
     }
     #intro .intro-info h2 {
-        font-size: 34px;
+        font-size: 52px;
+        margin-bottom: 30px;
+    }
+    #intro .intro-info h3 {
+        font-size: 36px;
         margin-bottom: 30px;
     }
     .section-header p {
