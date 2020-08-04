@@ -441,7 +441,8 @@ h6 {
     top: 0;
     left: 0;
     position: fixed;
-    background: #61BC64 overflow: hidden;
+    background: #61BC64;
+    overflow: hidden;
     display: none;
 }
 
