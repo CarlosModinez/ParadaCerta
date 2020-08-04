@@ -17,14 +17,14 @@ body {
 }
 
 a {
-    color: #61BC64;
+    color: #32C058;
     transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #61BC64;
+    color: #32C058;
     outline: none;
     text-decoration: none;
 }
@@ -52,7 +52,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #61BC64;
+    background: #32C058;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -91,7 +91,7 @@ h6 {
     top: calc(50% - 30px);
     left: calc(50% - 30px);
     border: 6px solid #f2f2f2;
-    border-top: 6px solid #61BC64;
+    border-top: 6px solid #32C058;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -220,7 +220,7 @@ h6 {
 #intro .intro-info .btn-get-started {
     background: #fff;
     border: 2px solid #fff;
-    color: #61BC64;
+    color: #32C058;
 }
 
 #intro .intro-info .btn-get-started:hover {
@@ -234,8 +234,8 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-    background: #61BC64;
-    border-color: #61BC64;
+    background: #32C058;
+    border-color: #32C058;
     color: #fff;
 }
 
@@ -275,8 +275,8 @@ h6 {
     border-radius: 5px;
     transition: 0.5s;
     margin: 0 20px 20px 0;
-    color: #61BC64;
-    border: 2px solid #61BC64;
+    color: #32C058;
+    border: 2px solid #32C058;
     text-align: center;
 }
 
@@ -285,7 +285,7 @@ h6 {
     color: #fff;
     border: 0px;
     text-decoration: none;
-    background-color: #61BC64;
+    background-color: #32C058;
 }
 
 .main-nav .drop-down ul {
@@ -322,7 +322,7 @@ h6 {
 .main-nav .drop-down ul a:hover,
 .main-nav .drop-down ul .active>a,
 .main-nav .drop-down ul li:hover>a {
-    color: #61BC64;
+    color: #32C058;
 }
 
 .main-nav .drop-down>a:after {
@@ -385,7 +385,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-    color: #61BC64;
+    color: #32C058;
     text-decoration: none;
 }
 
@@ -441,7 +441,6 @@ h6 {
     top: 0;
     left: 0;
     position: fixed;
-    background: #61BC64;
     overflow: hidden;
     display: none;
 }
@@ -553,17 +552,17 @@ h6 {
     flex-direction: column;
     text-align: center;
     border-radius: 50%;
-    border: 2px solid #61BC64;
+    border: 2px solid #32C058;
     transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-    color: #61BC64;
+    color: #32C058;
     font-size: 30px;
 }
 
 #about .about-container .icon-box:hover .icon {
-    background: #61BC64;
+    background: #32C058;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -646,7 +645,7 @@ h6 {
 }
 
 #services .box:hover .title a {
-    color: #61BC64;
+    color: #32C058;
 }
 
 #services .description {
