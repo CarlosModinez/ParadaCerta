@@ -46,6 +46,26 @@ h6 {
     padding: 0;
 }
 
+.btn {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 32px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin: 0 20px 0px 0;
+    color: #fff;
+    background: #32C058;
+}
+
+.btn:hover {
+    background: none;
+    border-color: #32C058;
+    color: #32C058;
+}
+
 
 /* Back to top button */
 
