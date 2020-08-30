@@ -210,7 +210,6 @@
     
     #intro .intro-info h2 span {
         color: #32C058;
-        text-decoration: underline;
     }
     
     #intro .intro-info .btn-get-started,
@@ -512,6 +511,7 @@
         top: -120px;
         background-color: #fff;
         border-radius: 10px;
+        width: 90%;
     }
     
     #about .about-container .background {
@@ -1020,6 +1020,11 @@ explanationna
         #explanation .right p {
             text-align: center;
         }
+        #about .forms-input {
+            width: 100%;
+            top: 0px;
+            padding: 0, 0, 0, 0;
+        }
     }
     
     @media (max-width: 768px) {
@@ -1038,11 +1043,6 @@ explanationna
         }
         .section-header p {
             width: 100%;
-        }
-        #about .forms-input {
-            width: 100%;
-            top: 0px;
-            padding: 0, 0, 0, 0;
         }
         #video iframe {
             width: 100%;
