@@ -191,7 +191,9 @@ h6 {
     background: #32C058;
     width: 100%;
     padding-top: 100%;
-    border-radius: 50%;
+    border-top-left-radius: 50%;
+    /* 100px of height + 10px of border */
+    border-top-right-radius: 50%;
 }
 
 #intro .content {
